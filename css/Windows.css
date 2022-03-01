@@ -1,0 +1,6 @@
+button{
+    position: absolute;
+    top: attr('x');
+    right: attr('y');
+    width: 70px;
+}
