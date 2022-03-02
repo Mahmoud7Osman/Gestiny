@@ -8,5 +8,8 @@
 <h1>Installation On Linux</h1>
   <p>Follow These Instructions</p>
 
+<h1>Installation On Mac OS</h1>
+  <p>Follow These Instructions</p>
+
 <h1>Usage And New Elements</h1>
   <p>There Are Some elements Added Like buttonarea and buttons</p>
