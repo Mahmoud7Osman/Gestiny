@@ -1,1 +1,1 @@
-<h1>Gestiny Library Demonstration Hybrid Apps</h1>
+<h1>A Full Cross-Platform Desktop Application Using Gestiny (Demo)</h1>
