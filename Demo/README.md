@@ -1,1 +1,1 @@
-<h1>The Demonstration Application Using Gestiny Library</h1>
+<h1>Gestiny Library Demonstration Hybrid Apps</h1>
