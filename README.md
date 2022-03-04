@@ -2,7 +2,7 @@
 <pre>When The Native Meets The Web</pre>
 <p>Hybrid Desktop Application Development Library, You Don't Need to learn Win32Api Or X-Lib, Qt, GTK ..., in order to develop desktop apps!<br>Now You Can do it using HTML/CSS And Javascript!</p>
 <h2>So Basically...</h2>
-<p>This Library Contains The Basic UI Elements And Contents, Designed To Work Like Windows 10 Default UI.</p>
+<p>This Library Contains The Basic UI Elements And Contents, Designed To Work Like Windows 10 Default UI (Win32Api's Default Windows Style).</p>
 
 <h1>Installation On Windows</h1>
   <p>Follow These Instructions</p>
