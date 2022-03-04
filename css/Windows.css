@@ -49,3 +49,24 @@ fieldset{
     border-width: 1px;
     margin: 10px 20px 5px 20px;
 }
+
+/* Microsoft Windows UI Select Option */
+select {
+    background-color: rgb(230, 230, 230);
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(185, 185, 185);
+    width: 300px;
+    padding: 3px;
+    margin: 0 5px 0 0;
+    font-size: 11px;
+    transition: 0.4s;
+}
+select:hover{
+    border-color: rgb(0, 133, 221);
+    background-color: rgb(219, 246, 255);
+}
+select:focus{
+    outline: 0;
+    box-shadow: 0 0 0 0;
+}
